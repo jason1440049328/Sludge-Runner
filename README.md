@@ -1,6 +1,6 @@
 # Sludge Runner Final Project
 
-This was my final project for my Digital Systems class. I implemented a obstacle-avoidance game with the goal of racing to the finish line as fast as possible. Controls are interfaced through a NexysA7 FPGA and visual components output through a VGA screen. Logic is controlled through in game collision logic as well as MIPS assembly code for execution during certain conditions. **Certain parts of the processor have been removed/broken on purpose due to ongoing coursework that I TA for that involve students building their own implementation of a multi-cycle pipelined processor.**
+This was my final project for my Digital Systems class. I implemented a obstacle-avoidance game with the goal of racing to the finish line as fast as possible. Controls are interfaced through a NexysA7 FPGA and visual components output through a VGA screen. Logic is controlled through in game collision logic as well as MIPS assembly code for execution during certain conditions. **Certain parts of the processor have been removed/broken on purpose in this public repository due to ongoing coursework that I TA for that involve students building their own implementation of a multi-cycle pipelined processor.**
 
 
 ### Processor Implementation
